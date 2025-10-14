@@ -6,3 +6,9 @@
     via Email anshkakkar05@gmail.com
 
 
+Past Experience: 
+- Software Engineer Intern @Kinaxis (September 2025 - December 2025)
+- Software Developer Intern @Trend Micro (May 2025 - August 2025)
+  
+
+
