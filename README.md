@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-kakkar-471a0a288/"><img src="https://img.shields.io/badge/-Ansh%20Kakkar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:anshkakkar05@gmail.com"><img src="https://img.shields.io/badge/-anshkakkar05@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
