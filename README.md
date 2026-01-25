@@ -14,10 +14,6 @@
 
 Hi, I'm Ansh Kakkar! I'm a Computer Science student specializing in **AI/ML** at Carleton University, with hands-on industry experience contributing to software with a big impact! Some of my hobbies are weightlifting and bike riding. Let's connect!  
 
-🔭 **Currently Learning:** AI Agents and Backend Development  
-
-🌱 **Next on My List:** Cloud Architecture & Blockchain Development  
-
 💡 **Interests:** Machine Learning, Data Science, Generative AI  
 
 
