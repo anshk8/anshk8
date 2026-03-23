@@ -16,20 +16,15 @@ Hi, I'm Ansh Kakkar! I'm a Computer Science student specializing in **AI/ML** at
 
 💡 **Interests:** Machine Learning, Data Science, Generative AI  
 
-
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Stats
 
-### **Software Engineer Intern — Kinaxis**
-📍 *Kanata, ON* | *Sept 2025 – Dec 2025*  
-- Contributed to Maestro a cloud-based platform that makes supply chains faster and easier to manage + rebranding internal Parcel UI library. 🚚🤖 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=anshk8&theme=midnight-purple&hide_border=true" />
+</div>
 
-### **Software Developer Intern — Trend Micro**
-📍 *Kanata, ON* | *May 2025 – Aug 2025*  
-- Developed the MVP of an AI Security application, aiming to prevent threats for Large Language Models (LLM’s) 🔒🧠💻
-
----
+--- 
 
 ## 🛠️ Tech Stack / What I've worked with before
 
@@ -92,10 +87,3 @@ Hi, I'm Ansh Kakkar! I'm a Computer Science student specializing in **AI/ML** at
 
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anshk8&theme=midnight-purple&hide_border=true" />
-</div>
-
