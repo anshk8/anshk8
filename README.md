@@ -77,13 +77,16 @@ Hi, I'm Ansh Kakkar! I'm a Computer Science student specializing in **AI/ML** at
 
 ## 🏆 Achievements
 
+- 🥇 **1st Place — Mindbridge X Carleton University Query Writer Competition (Macbook Pro Prize)**
+  Using Agentic AI to translate human language into accurate SQL.
+  🔗 [View Compeitition Details](https://www.mindbridge.ai/news/carleton-university-students-win-top-honors-in-mindbridges-2026-data-science-challenge/) | 📅 *Apr 2026*
+
+- 🥇 **1st Place — AI Tinkerers Vibe Code Hackathon ($2,300 in prizes)**  
+  Created *AirReserve*, an AI-powered flight price tracker and booking agent using LangChain + Firebase.
+  🔗 [View Project on Devpost](https://devpost.com/software/airreserve) | 📅 *Jul 2025*
+
 - 🥇 **1st Place — cuHacking Computer Vision Competition**  
   Built a TensorFlow-based productivity classifier using screenshot image data.  
   🔗 [View Project on Devpost](https://devpost.com/software/blocker-ghi365) | 📅 *Dec 2024*
-
-- 🥇 **1st Place — AI Tinkerers Vibe Code Hackathon ($2,300 in prizes)**  
-  Created *AirReserve*, an AI-powered flight price tracker and booking agent using LangChain + Firebase.  
-  🔗 [View Project on Devpost](https://devpost.com/software/airreserve) | 📅 *Jul 2025*
-
 
 ---
