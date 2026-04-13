@@ -18,11 +18,6 @@ Hi, I'm Ansh Kakkar! I'm a Computer Science student specializing in **AI/ML** at
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anshk8&theme=midnight-purple&hide_border=true" />
-</div>
-
 
 --- 
 
